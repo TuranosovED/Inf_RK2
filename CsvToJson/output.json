@@ -1,0 +1,40 @@
+[
+	
+{
+"isActive": "1",
+"email": "bob@example.com",
+"phoneNumber": "5555552323",
+"address": "789 Oak St Anytown TX 54321",
+"age": "42",
+"name": "Bob"
+
+},
+{
+"isActive": "0",
+"email": "alice@example.com",
+"phoneNumber": "5555551212",
+"address": "123 Main St Anytown TX 54321",
+"age": "30",
+"name": "Alice"
+
+},
+{
+"isActive": "1",
+"email": "john@example.com",
+"phoneNumber": "5555553434",
+"address": "456 Elm St Anytown CA 98765",
+"age": "35",
+"name": "John"
+
+},
+{
+"isActive": "0",
+"email": "mary@example.com",
+"phoneNumber": "5555554545",
+"address": "789 Maple St Nowhere",
+"age": "FL 56789",
+"name": "18"
+
+}
+]
+	

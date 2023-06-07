@@ -1,0 +1,35 @@
+[
+   {
+      "name": "Bob",
+      "age": 42,
+      "address": "789 Oak St Anytown TX 54321",
+      "phoneNumber": "555-555-2323",
+      "email": "bob@example.com",
+      "isActive": 1
+    },
+    {
+      "name": "Alice",
+      "age": 30,
+      "address": "123 Main St Anytown TX 54321",
+      "phoneNumber": "555-555-1212",
+      "email": "alice@example.com",
+      "isActive": 0
+    },
+    {
+      "name": "John",
+      "age": 35,
+      "address": "456 Elm St Anytown CA 98765",
+      "phoneNumber": "555-555-3434",
+      "email": "john@example.com",
+      "isActive": 1
+    },
+      
+   {
+      "name": "Mary",
+      "age": 18,
+      "address": "789 Maple St Nowhere FL 56789",
+      "phoneNumber": "555-555-4545",
+      "email": "mary@example.com",
+      "isActive": 1
+   }
+ ]

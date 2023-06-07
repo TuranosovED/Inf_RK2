@@ -1,0 +1,5 @@
+isActive,email,phoneNumber,address,age,name,
+1,bob@example.com,5555552323,789 Oak St Anytown TX 54321,42,Bob,
+0,alice@example.com,5555551212,123 Main St Anytown TX 54321,30,Alice,
+1,john@example.com,5555553434,456 Elm St Anytown CA 98765,35,John,
+0,mary@example.com,5555554545,789 Maple St Nowhere,FL 56789,18,Mary,
